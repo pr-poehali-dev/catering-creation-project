@@ -66,7 +66,10 @@ export default {
 					black: '#1A1A1A',
 					gold: '#d4A574',
 					warm: '#F8F8F8',
-					gray: '#2c2c2c'
+					gray: '#2c2c2c',
+					champagne: '#f7e7ce',
+					bronze: '#cd7f32',
+					platinum: '#e5e4e2'
 				}
 			},
 			borderRadius: {
